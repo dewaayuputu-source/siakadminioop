@@ -163,7 +163,7 @@
 <div class="header animate-up">
     <img src="logo.png" width="80" alt="Logo">
     <h2 class="fw-bold m-0">SIAKAD <span style="font-weight: 300;">MINI</span></h2>
-    <p class="opacity-75 mb-0">Management Academic System v2.0</p>
+    <p class="opacity-75 mb-0">POLITEKNIK NEGERI JEMBER </p>
 </div>
 
 <div class="row">
